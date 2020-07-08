@@ -1,0 +1,19 @@
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Today's Weather</h2>
+
+<div>
+<ul>
+    @for (int i = 0; i < 1; i++)
+    {
+        <li>City: @ViewData["City"]</li>
+        <li>Country: @ViewData["Country"]</li>
+        <li>Temperature: @ViewData["Temp"] C</li>
+        <li>Wind: @ViewData["Wind"] m/s</li>
+        <li>Feels like: @ViewData["TempFeelsLike"] C</li>
+    }
+  
+</ul>
+</div>

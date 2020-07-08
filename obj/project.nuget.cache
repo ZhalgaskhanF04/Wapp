@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jbwuy4cnkRmKFBU/Ok+/Uvc9uO/4l8I99rQuukgKyTqF3qdyjgR8I4n0oNdOu/T7KjTeoQKT6ASCP4OcQzCgUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zhalgas\\Desktop\\Personal\\Job\\aspweatherapp\\aspweatherapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zhalgas\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
